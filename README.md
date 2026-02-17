@@ -9,7 +9,7 @@
 This website introduces our team and our shared interests.
 
 ## Live Website
-(Insert here when done)
+https://adharshhenry-source.github.io/Assignment_1/index.html
 
 ## Technologies Used
 - HTML
